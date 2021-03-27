@@ -4,6 +4,6 @@ public class Person{
 	public static void main(String[] args){
 		Person preson = new Person();
 		person.setAge(30);
-		person.setName("wangwu");
+		person.setName("赵六");
 	}
 }
